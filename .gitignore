@@ -5,7 +5,6 @@
 venv/
 
 # Screenshots and images
-ss/
 img/
 
 # Compiled Python files

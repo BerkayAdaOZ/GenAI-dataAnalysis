@@ -8,9 +8,6 @@ This project provides a streamlined data analysis platform leveraging the power 
 - **Data Interaction**: Examine individual variables, visualize trends, and generate different types of charts (Histograms, Line Charts, Box Plots).
 - **AI-Powered Analysis**: Use GPT-4 or Claude to generate insights and respond to natural language queries about the dataset.
 
-![Screenshot 1](./ss/Screenshot 2024-09-14 at 16.21.02.png)
-![Screenshot 2](<ss/Screenshot 2024-09-14 at 16.21.16.png>)
-
   
 ## Getting Started
 
