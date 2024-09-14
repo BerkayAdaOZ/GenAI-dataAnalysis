@@ -1,0 +1,12 @@
+# API keys and sensitive information
+.env
+
+# Virtual environment
+venv/
+
+# Screenshots and images
+ss/
+img/
+
+# Compiled Python files
+__pycache__/
